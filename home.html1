@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>سنترال الأمل | الصفحة الرئيسية</title>
+ <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+  <header>
+    <h1>سنترال الأمل</h1>
+    <p>متخصصون في كل ما يخص الرجل العصري</p>
+  </header>
+
+  <nav>
+    <a href="men.html">الملابس الرجالي</a>
+    <a href="kids.html">ملابس الأطفال</a>
+    <a href="products.html">الكريمات والمستحضرات</a>
+  </nav>
+
+  <div class="welcome">
+    <h2>أهلاً بك في سنترال الأمل</h2>
+    <p>
+      نوفر لك أفضل أنواع الملابس الرجالي والكريمات الأصلية بجودة عالية.<br>
+      تصفح الأقسام بالأعلى لتكتشف كل جديد.
+    </p>
+  </div>
+
+  <footer>
+    &copy; 2025 سنترال الأمل - جميع الحقوق محفوظة
+  </footer>
+
+</body>
+</html>
